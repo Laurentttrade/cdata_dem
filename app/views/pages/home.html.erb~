@@ -5,4 +5,4 @@ Tested by
   <a href="http://c-data.fr/"> C-data </a>.
 </p>
 
-<%= link_to "S'inscrire!", signup_path, :class => "signup_button round" %>
+<%= link_to "S'inscrire!", users_new_path, :class => "signup_button round" %>
