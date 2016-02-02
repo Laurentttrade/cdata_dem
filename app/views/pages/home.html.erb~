@@ -1,8 +1,0 @@
-<h1>C-data.fr Social</h1>
-
-<p>
-Tested by
-  <a href="http://c-data.fr/"> C-data </a>.
-</p>
-
-<%= link_to "S'inscrire!", users_new_path, :class => "signup_button round" %>
